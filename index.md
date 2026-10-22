@@ -17,5 +17,5 @@ Email **[getsnooze.support@gmail.com](mailto:getsnooze.support@gmail.com)**. We 
 
 ## Legal
 
-- [Privacy Policy](privacy)
-- [End User Terms](terms)
+- [Privacy Policy](privacy/)
+- [End User Terms](terms/)

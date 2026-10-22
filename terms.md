@@ -1,6 +1,6 @@
 ---
 title: End User Terms
-permalink: /terms
+permalink: /terms/
 ---
 
 
@@ -10,7 +10,7 @@ These terms apply to your use of **Snooze: Issue Reminders & Follow-ups for Jira
 
 1. **Licence.** While you hold a valid licence purchased through the Atlassian Marketplace, or are within a free trial or free tier, we grant you a non-exclusive, non-transferable right to use the App on your Atlassian Cloud site. The Atlassian Marketplace terms govern pricing, billing, refunds and licence term.
 2. **Acceptable use.** Do not use the App to send spam or unlawful content, or to bypass Atlassian's or Jira's limits. Do not try to reverse engineer, resell or interfere with the App.
-3. **Your data.** You keep all rights to your data. We handle it only as described in our [Privacy Policy](privacy).
+3. **Your data.** You keep all rights to your data. We handle it only as described in our [Privacy Policy](../privacy/).
 4. **Availability.** The App depends on Atlassian's platform and Jira's notification system. We aim to deliver reminders within a few minutes of the scheduled time. We do not guarantee that every reminder will be delivered or on time, so do not rely on the App as the only safeguard for safety-critical, legal or financial deadlines.
 5. **Support.** We provide support by email at **getsnooze.support@gmail.com** and aim to reply within 2 business days (Portugal time).
 6. **Changes and updates.** We may update the App and these terms. Updates are delivered through the Atlassian Marketplace. If you keep using the App after a change to these terms, you accept the change.
