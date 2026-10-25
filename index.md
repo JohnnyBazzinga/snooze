@@ -11,6 +11,10 @@ title: Snooze
 - **Remind anyone:** yourself, the assignee, the reporter, the watchers, named people or Jira groups, once or on a schedule.
 - **Runs on Atlassian:** your data never leaves Atlassian's platform.
 
+## Documentation
+
+Read the [Snooze documentation](docs/) to get started.
+
 ## Support
 
 Email **[getsnooze.support@gmail.com](mailto:getsnooze.support@gmail.com)**. We reply within 2 business days, Monday to Friday, 09:00–18:00 Lisbon time.
