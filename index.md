@@ -23,3 +23,4 @@ Email **[getsnooze.support@gmail.com](mailto:getsnooze.support@gmail.com)**. We 
 
 - [Privacy Policy](privacy/)
 - [End User Terms](terms/)
+- [Security](security/)
