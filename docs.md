@@ -26,7 +26,7 @@ The blue preview shows exactly when the reminder will be sent, in your Jira time
 
 **Repeat:** once, every day, every weekday, every week or every month, always at the same local time.
 
-**Who gets it:** you, the assignee, the reporter, the watchers, up to 20 named people and up to 5 Jira groups. Roles are resolved when the reminder is sent, so a new assignee gets it.
+**Who gets it:** you, the assignee, the reporter, the watchers, up to 20 named people and up to 5 Jira groups you belong to. Roles are resolved when the reminder is sent, so a new assignee gets it.
 
 **Note:** optional text included in the email.
 
